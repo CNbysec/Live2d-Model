@@ -1,0 +1,168 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "accelerator.moc",
+  "textures": [
+    "accelerator.2048/texture_00.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "hit_areas": [
+    {
+      "name": "body",
+      "id": ""
+    }
+  ],
+  "motions": {
+    "tap": [
+      {
+        "file": "motions/tap/Live2D_Accelerator001.mtn",
+        "sound": "motions/tap/Live2D_Accelerator001.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator002.mtn",
+        "sound": "motions/tap/Live2D_Accelerator002.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator003.mtn",
+        "sound": "motions/tap/Live2D_Accelerator003.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator004.mtn",
+        "sound": "motions/tap/Live2D_Accelerator004.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator005.mtn",
+        "sound": "motions/tap/Live2D_Accelerator005.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator006.mtn",
+        "sound": "motions/tap/Live2D_Accelerator006.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator007.mtn",
+        "sound": "motions/tap/Live2D_Accelerator007.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator008.mtn",
+        "sound": "motions/tap/Live2D_Accelerator008.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator009.mtn",
+        "sound": "motions/tap/Live2D_Accelerator009.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator010.mtn",
+        "sound": "motions/tap/Live2D_Accelerator010.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator026.mtn",
+        "sound": "motions/tap/Live2D_Accelerator026.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator027.mtn",
+        "sound": "motions/tap/Live2D_Accelerator027.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator028.mtn",
+        "sound": "motions/tap/Live2D_Accelerator028.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator029.mtn",
+        "sound": "motions/tap/Live2D_Accelerator029.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator030.mtn",
+        "sound": "motions/tap/Live2D_Accelerator030.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator031.mtn",
+        "sound": "motions/tap/Live2D_Accelerator031.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator032.mtn",
+        "sound": "motions/tap/Live2D_Accelerator032.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator033.mtn",
+        "sound": "motions/tap/Live2D_Accelerator033.mp3"
+      },
+      {
+        "file": "motions/tap/Live2D_Accelerator034.mtn",
+        "sound": "motions/tap/Live2D_Accelerator034.mp3"
+      }
+    ],
+    "tap_body": [
+      {
+        "file": "motions/tap_body/Live2D_Accelerator011.mtn",
+        "sound": "motions/tap_body/Live2D_Accelerator011.mp3"
+      },
+      {
+        "file": "motions/tap_body/Live2D_Accelerator012.mtn",
+        "sound": "motions/tap_body/Live2D_Accelerator012.mp3"
+      },
+      {
+        "file": "motions/tap_body/Live2D_Accelerator013.mtn",
+        "sound": "motions/tap_body/Live2D_Accelerator013.mp3"
+      },
+      {
+        "file": "motions/tap_body/Live2D_Accelerator014.mtn",
+        "sound": "motions/tap_body/Live2D_Accelerator014.mp3"
+      },
+      {
+        "file": "motions/tap_body/Live2D_Accelerator015.mtn",
+        "sound": "motions/tap_body/Live2D_Accelerator015.mp3"
+      },
+      {
+        "file": "motions/tap_body/Live2D_Accelerator016.mtn",
+        "sound": "motions/tap_body/Live2D_Accelerator016.mp3"
+      },
+      {
+        "file": "motions/tap_body/Live2D_Accelerator017.mtn",
+        "sound": "motions/tap_body/Live2D_Accelerator017.mp3"
+      },
+      {
+        "file": "motions/tap_body/Live2D_Accelerator018.mtn",
+        "sound": "motions/tap_body/Live2D_Accelerator018.mp3"
+      },
+      {
+        "file": "motions/tap_body/Live2D_Accelerator019.mtn",
+        "sound": "motions/tap_body/Live2D_Accelerator019.mp3"
+      },
+      {
+        "file": "motions/tap_body/Live2D_Accelerator020.mtn",
+        "sound": "motions/tap_body/Live2D_Accelerator020.mp3"
+      }
+    ],
+    "shake": [
+      {
+        "file": "motions/shake/Live2D_Accelerator021.mtn",
+        "sound": "motions/shake/Live2D_Accelerator021.mp3"
+      },
+      {
+        "file": "motions/shake/Live2D_Accelerator022.mtn",
+        "sound": "motions/shake/Live2D_Accelerator022.mp3"
+      },
+      {
+        "file": "motions/shake/Live2D_Accelerator023.mtn",
+        "sound": "motions/shake/Live2D_Accelerator023.mp3"
+      },
+      {
+        "file": "motions/shake/Live2D_Accelerator024.mtn",
+        "sound": "motions/shake/Live2D_Accelerator024.mp3"
+      },
+      {
+        "file": "motions/shake/Live2D_Accelerator025.mtn",
+        "sound": "motions/shake/Live2D_Accelerator025.mp3"
+      }
+    ],
+    "idle": [
+      {
+        "file": "motions/idle/idle.mtn"
+      }
+    ]
+  },
+  "physics": "physics.json"
+}

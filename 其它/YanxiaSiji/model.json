@@ -1,0 +1,22 @@
+{
+  "version": "Live2D",
+  "model": "YanxiaSiji.moc",
+  "textures": [
+    "YanxiaSiji.1024/texture_00.png",
+    "ZH.YanxiaSiji.1024/texture_01.png",
+    "ZH.YanxiaSiji.1024/texture_02.png",
+    "ZH.YanxiaSiji.1024/texture_03.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "motions": {
+    "idle": [
+      {
+        "file": "motions/idle/idle.mtn"
+      }
+    ]
+  }
+}

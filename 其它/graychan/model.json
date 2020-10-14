@@ -1,0 +1,15 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"graychan.moc",
+	"textures":[
+		"graychan.2048/texture_00.png"
+	],
+	"motions":{
+		"idle":[
+			{"file":"motions/idle_01.mtn"}
+		]
+	},
+	"physics":"graychan.physics.json",
+	"project_settings":"embed://33.json",
+	"name":""
+}

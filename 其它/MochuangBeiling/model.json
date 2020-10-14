@@ -1,0 +1,19 @@
+{
+  "version": "Live2D",
+  "model": "MochuangBeiling.moc",
+  "textures": [
+    "MochuangBeiling.2048/texture_00.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "motions": {
+    "idle": [
+      {
+        "file": "motions/idle/idle.mtn"
+      }
+    ]
+  }
+}

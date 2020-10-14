@@ -1,0 +1,31 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "mofang.moc",
+  "textures": [
+    "mofang.2048/texture_00.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "motions": {
+    "tap": [
+      {
+        "file": "motions/tap/00000002.mtn",
+        "sound": "motions/tap/00000002.mp3"
+      }
+    ],
+    "shake": [
+      {
+        "file": "motions/shake/00000003.mtn",
+        "sound": "motions/shake/00000003.mp3"
+      }
+    ],
+    "idle": [
+      {
+        "file": "motions/idle/00000004.mtn"
+      }
+    ]
+  }
+}
