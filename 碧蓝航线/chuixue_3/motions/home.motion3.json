@@ -4,9 +4,10 @@
     "Duration": 4.433,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 212,
-    "TotalSegmentCount": 611,
-    "TotalPointCount": 817,
+    "AreBeziersRestricted": true,
+    "CurveCount": 211,
+    "TotalSegmentCount": 609,
+    "TotalPointCount": 815,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
@@ -2395,20 +2396,6 @@
     {
       "Target": "PartOpacity",
       "Id": "Part",
-      "Segments": [
-        0,
-        1,
-        2,
-        4.33,
-        1,
-        2,
-        4.43,
-        1
-      ]
-    },
-    {
-      "Target": "2422911982",
-      "Id": "2422911982",
       "Segments": [
         0,
         1,

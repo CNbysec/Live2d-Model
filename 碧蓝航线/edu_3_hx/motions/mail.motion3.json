@@ -4,9 +4,10 @@
     "Duration": 6.5,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 160,
-    "TotalSegmentCount": 726,
-    "TotalPointCount": 1028,
+    "AreBeziersRestricted": true,
+    "CurveCount": 158,
+    "TotalSegmentCount": 724,
+    "TotalPointCount": 1026,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -3947,28 +3948,6 @@
         0,
         6.5,
         1
-      ]
-    },
-    {
-      "Target": "1180732508",
-      "Id": "1180732508",
-      "Segments": [
-        0,
-        0,
-        0,
-        6.5,
-        0
-      ]
-    },
-    {
-      "Target": "828882122",
-      "Id": "828882122",
-      "Segments": [
-        0,
-        0,
-        0,
-        6.5,
-        0
       ]
     },
     {

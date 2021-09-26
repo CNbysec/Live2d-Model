@@ -4,6 +4,7 @@
     "Duration": 6.233,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
     "CurveCount": 102,
     "TotalSegmentCount": 1285,
     "TotalPointCount": 1521,

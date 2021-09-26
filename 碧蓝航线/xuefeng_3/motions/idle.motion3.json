@@ -4,6 +4,7 @@
     "Duration": 6.0,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
     "CurveCount": 151,
     "TotalSegmentCount": 526,
     "TotalPointCount": 740,
@@ -11,17 +12,6 @@
     "TotalUserDataSize": 0
   },
   "Curves": [
-    {
-      "Target": "Parameter",
-      "Id": "Param",
-      "Segments": [
-        0,
-        0,
-        0,
-        6,
-        10
-      ]
-    },
     {
       "Target": "Parameter",
       "Id": "ParamBodyAngleX",
@@ -1050,7 +1040,7 @@
         1,
         0,
         6,
-        -0.4
+        -0.402
       ]
     },
     {
@@ -1110,9 +1100,9 @@
         5.267,
         1,
         5.633,
-        0.493,
+        0.49,
         6,
-        -0.155
+        -0.156
       ]
     },
     {
@@ -2494,6 +2484,17 @@
         0,
         6,
         -14
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param",
+      "Segments": [
+        0,
+        0,
+        0,
+        6,
+        0
       ]
     },
     {

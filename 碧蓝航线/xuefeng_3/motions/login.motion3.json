@@ -4,9 +4,10 @@
     "Duration": 8.733,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 165,
-    "TotalSegmentCount": 920,
-    "TotalPointCount": 1318,
+    "AreBeziersRestricted": true,
+    "CurveCount": 169,
+    "TotalSegmentCount": 901,
+    "TotalPointCount": 1305,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -369,6 +370,73 @@
         2,
         8.733,
         1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param3",
+      "Segments": [
+        0,
+        -1,
+        1,
+        2.911,
+        -1,
+        5.822,
+        0.632,
+        8.733,
+        0.948
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param4",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.511,
+        0.595,
+        3.022,
+        1,
+        4.533,
+        1,
+        1,
+        5.933,
+        1,
+        7.333,
+        0.652,
+        8.733,
+        0.246
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param",
+      "Segments": [
+        0,
+        0,
+        1,
+        2.911,
+        2.911,
+        5.822,
+        5.822,
+        8.733,
+        8.733
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param2",
+      "Segments": [
+        0,
+        5,
+        1,
+        2.911,
+        7.911,
+        5.822,
+        10.822,
+        8.733,
+        13.733
       ]
     },
     {
@@ -1412,130 +1480,6 @@
         -0.453,
         6.189,
         -0.227,
-        8.233,
-        0,
-        2,
-        8.733,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthForm",
-      "Segments": [
-        0,
-        0,
-        2,
-        1.4,
-        0,
-        0,
-        2.1,
-        1,
-        1,
-        2.111,
-        1,
-        2.122,
-        0.871,
-        2.133,
-        0.8,
-        1,
-        2.222,
-        0.236,
-        2.311,
-        0,
-        2.4,
-        0,
-        2,
-        7.533,
-        0,
-        0,
-        7.567,
-        1,
-        0,
-        8.233,
-        0,
-        2,
-        8.733,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Paramzuikb",
-      "Segments": [
-        0,
-        0,
-        0,
-        1.4,
-        1,
-        2,
-        2.1,
-        1,
-        2,
-        6.967,
-        1,
-        2,
-        7.4,
-        1,
-        0,
-        7.533,
-        0,
-        2,
-        7.567,
-        0,
-        2,
-        8.233,
-        0,
-        2,
-        8.733,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Paramshuohuatm",
-      "Segments": [
-        0,
-        1,
-        2,
-        1.367,
-        1,
-        0,
-        1.4,
-        0,
-        2,
-        7.533,
-        0,
-        0,
-        7.567,
-        1,
-        2,
-        8.233,
-        1,
-        2,
-        8.733,
-        1
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Paramkeytm",
-      "Segments": [
-        0,
-        0,
-        2,
-        1.367,
-        0,
-        0,
-        1.4,
-        1,
-        2,
-        7.533,
-        1,
-        0,
-        7.567,
-        0,
-        2,
         8.233,
         0,
         2,
@@ -4468,7 +4412,51 @@
     },
     {
       "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "Segments": [
+        0,
+        0,
+        0,
+        8.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "Segments": [
+        0,
+        0,
+        0,
+        8.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Paramzuikb",
+      "Segments": [
+        0,
+        0,
+        0,
+        8.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Paramshuohuatm",
+      "Segments": [
+        0,
+        1,
+        0,
+        8.733,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Paramkeytm",
       "Segments": [
         0,
         0,

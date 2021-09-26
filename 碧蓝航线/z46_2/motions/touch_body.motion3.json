@@ -4,9 +4,10 @@
     "Duration": 7.3,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 279,
-    "TotalSegmentCount": 923,
-    "TotalPointCount": 1343,
+    "AreBeziersRestricted": true,
+    "CurveCount": 276,
+    "TotalSegmentCount": 917,
+    "TotalPointCount": 1337,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
@@ -3853,20 +3854,6 @@
       ]
     },
     {
-      "Target": "3604976077",
-      "Id": "3604976077",
-      "Segments": [
-        0,
-        0,
-        2,
-        4,
-        0,
-        2,
-        7.3,
-        0
-      ]
-    },
-    {
       "Target": "PartOpacity",
       "Id": "Part18",
       "Segments": [
@@ -4455,20 +4442,6 @@
       ]
     },
     {
-      "Target": "1069298936",
-      "Id": "1069298936",
-      "Segments": [
-        0,
-        0,
-        2,
-        4,
-        0,
-        2,
-        7.3,
-        0
-      ]
-    },
-    {
       "Target": "PartOpacity",
       "Id": "posteriorhair",
       "Segments": [
@@ -4625,20 +4598,6 @@
     {
       "Target": "PartOpacity",
       "Id": "sunflower32",
-      "Segments": [
-        0,
-        1,
-        2,
-        4,
-        1,
-        2,
-        7.3,
-        1
-      ]
-    },
-    {
-      "Target": "2422911982",
-      "Id": "2422911982",
       "Segments": [
         0,
         1,
